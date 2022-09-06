@@ -79,6 +79,7 @@ nav.navbar-transparente{
 
 .albuns{
 	padding: 10px 0;
+	margin: 10px;
 }
 
 .rotacionar{
@@ -88,9 +89,11 @@ nav.navbar-transparente{
 	padding-left: 80px;
 }
 
-.imgFluid{
-	margin: 5px;
+.imgMb{
+	margin-bottom: 10px;
 }
+
+
 /*Roda pé
 ------------*/
 footer{
